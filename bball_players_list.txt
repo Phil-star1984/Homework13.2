@@ -1,0 +1,1 @@
+{'first_name': 'Michael', 'last_name': 'Jordan', 'height_cm': 199.0, 'weight_kg': 90.0, 'points': '20453', 'rebounds': '34', 'assists': 203}
